@@ -64,8 +64,6 @@ This application integrates a dashboard, database persistence, authentication, r
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sam0929&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam0929&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
