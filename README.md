@@ -1,4 +1,4 @@
-# 🏎️ Hi! I'm Samuel  
+# 🏁 Hi! I'm Samuel  
 ### Computer Engineering Student • Developer • Systems • Data • Infrastructure
 
 I'm a **Computer Engineering student at PUC-Campinas (Brazil)**, building solutions that range from **low-level** (compilers, data structures, VHDL, Assembly) to **high-level** (web systems, data science, computer vision).  
