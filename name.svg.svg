@@ -1,0 +1,35 @@
+<svg width="800" height="200" viewBox="0 0 800 200"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    text {
+      font-family: "Segoe UI", Arial, sans-serif;
+      font-size: 80px;
+      fill: none;              /* começa só com o contorno */
+      stroke: #000000;
+      stroke-width: 2;
+      stroke-dasharray: 1000;  /* comprimento fictício do traço */
+      stroke-dashoffset: 1000; /* começa "escondido" */
+      animation:
+        draw 4s ease forwards,
+        fillText 2s ease 4s forwards; /* depois preenche */
+    }
+
+    @keyframes draw {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    @keyframes fillText {
+      to {
+        fill: #000000;   /* texto fica preenchido */
+      }
+    }
+  </style>
+
+  <!-- Troque SAMUEL pelo nome que quiser -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">
+    SAMUEL
+  </text>
+</svg>
