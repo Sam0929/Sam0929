@@ -44,7 +44,7 @@ This project demonstrates strong understanding of operating systems, process con
 ### **🧬 Compiler-Project (C)**
 A full academic compiler implemented entirely in **C**, covering all major stages of compilation.  
 This project demonstrates strong knowledge of language theory, parsing algorithms, semantic rules, memory models, and low-level code generation.
-🔗 
+🔗 https://github.com/Sam0929/compiler-project.git
 
 ### **📈 Synthetic & Real Graph Analysis Project**
 An advanced research project focused on analyzing **synthetic and real complex networks** using Python and NetworkX.  
