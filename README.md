@@ -10,10 +10,12 @@ My main interests are **backend development, mobile development, software engine
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-512BD4?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-512BD4?style=for-the-badge)
+
+
 
 ### 🛠️ Frameworks & Tools
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
@@ -21,7 +23,6 @@ My main interests are **backend development, mobile development, software engine
 ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-00A3E0?style=for-the-badge)
 
 
