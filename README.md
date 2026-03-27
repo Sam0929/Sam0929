@@ -84,9 +84,9 @@ This application integrates a dashboard, database persistence, authentication, r
 ---
 
 ## 🧠 About Me
-I'm always building or studying something new — whether it’s a compiler, a CNN, a Django system, or a Shell.  
-I’m constantly improving my skills and seeking opportunities in **machine learning, computer vision, data, backend, and software engineering**.
+I'm always building or studying something new — whether it’s a compiler, a mobile app, a CNN, a Django system, or a Shell.  
+I’m constantly improving my skills and seeking opportunities in **mobile development, data, backend, computer vision and software engineering**.
 
 ---
 
-✨ *Thanks for visiting my profile!*
+*Thanks for visiting my profile!*
